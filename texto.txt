@@ -1,1 +1,1 @@
-Hola, me llamo Anderson. Y esta es una pequeña modificación, x2
+Hola, me llamo Anderson. Y esta es una pequeña modificación, para comprobar el diff
